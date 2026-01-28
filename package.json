@@ -1,0 +1,19 @@
+{
+  "name": "claude-code-marketplace",
+  "version": "0.0.1",
+  "description": "A template plugin for Claude Code Marketplace",
+  "keywords": ["claude code marketplace", "skills", "agent skills"],
+  "author": "青椒肉丝<https://github.com/pkc918>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^4.11.0",
+    "@types/node": "^22.10.2",
+    "eslint": "^9.17.0",
+    "eslint-plugin-format": "^1.1.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
