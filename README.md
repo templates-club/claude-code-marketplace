@@ -35,3 +35,5 @@ An alternative for Claude Code users:
 # Install individual skills
 /plugin install generating-skill@claude-code-marketplace-template
 ```
+
+<img src="./assets/image.png"/>
