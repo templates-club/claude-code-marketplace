@@ -1,5 +1,5 @@
 {
-  "name": "claude-code-marketplace",
+  "name": "claude-code-marketplace-template",
   "version": "0.0.1",
   "description": "A template plugin for Claude Code Marketplace",
   "keywords": ["claude code marketplace", "skills", "agent skills"],

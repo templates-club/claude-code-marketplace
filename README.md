@@ -17,7 +17,7 @@ This repository provides a structured template for building Claude Code skills t
 ## Installation
 
 ```bash
-npx skills add templates-club/claude-code-marketplace
+npx skills add templates-club/claude-code-marketplace-template
 ```
 
 The [`skills`](https://www.npmjs.com/package/skills) CLI auto-detects your installed agents and provides an interactive picker. Use `-g` for global (user-wide) or `-y` to install all skills.
@@ -30,8 +30,8 @@ An alternative for Claude Code users:
 
 ```bash
 # Add marketplace
-/plugin marketplace add templates-club/claude-code-marketplace
+/plugin marketplace add templates-club/claude-code-marketplace-template
 
 # Install individual skills
-/plugin install generating-skill@claude-code-marketplace
+/plugin install generating-skill@claude-code-marketplace-template
 ```
